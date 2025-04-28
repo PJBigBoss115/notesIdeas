@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "36fce6f812869949",
+    "type": "split",
+    "children": [
+      {
+        "id": "644e0cdf5e23258f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90744aed278c7074",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "viewState": {
+                  "x": -559.606086452575,
+                  "y": 594.2351020125128,
+                  "zoom": -1.9745705478620206
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Clase_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67c3345d3856a4d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "aafe0ee2d3dfb45a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c066633ec7ff10b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "6c20dc3644487e16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "32b8087d7c8e47b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.50260543823242
+  },
+  "right": {
+    "id": "fd5b9183224e3461",
+    "type": "split",
+    "children": [
+      {
+        "id": "408bf47817c1bc28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c40a9bd8e705a782",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Clase_1"
+            }
+          },
+          {
+            "id": "c866cf9adb9efc7e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Clase_1"
+            }
+          },
+          {
+            "id": "19da08a185628e37",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "8379754074100057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Clase_1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "90744aed278c7074",
+  "lastOpenFiles": [
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+    "Cyber_kill_chain.png",
+    "Diamond.png",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Sin título.md",
+    "Pyramid_of_pain.png",
+    "PanoramaActual.png",
+    "Topologias.png",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Cambios en el mundo como respuesta.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Evolución de los riesgos cibernéticos.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Introducción.md",
+    "Bienvenido.md",
+    "Sin título.canvas",
+    "Sin título.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025"
+  ]
+}
