@@ -11,20 +11,45 @@
             "id": "e61c07f96c36a5f7",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Clase_2"
+            }
+          },
+          {
+            "id": "77734d4f851337c1",
+            "type": "leaf",
+            "state": {
               "type": "canvas",
               "state": {
                 "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
                 "viewState": {
-                  "x": -245.47684981979023,
-                  "y": 57.77478823264863,
-                  "zoom": -0.9493954198188955
+                  "x": -710.5125003083385,
+                  "y": 776.0427047569119,
+                  "zoom": -1.6
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Clase_3_Notas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,17 +122,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Clase_1"
+              "title": "Enlaces entrantes de Clase_3_Notas"
             }
           },
           {
@@ -116,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Clase_1"
+              "title": "Enlaces salientes de Clase_3_Notas"
             }
           },
           {
@@ -145,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Clase_1"
+              "title": "Esquema de Clase_3_Notas"
             }
           }
         ]
@@ -171,8 +196,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e61c07f96c36a5f7",
+  "active": "77734d4f851337c1",
   "lastOpenFiles": [
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
     "Cyber_kill_chain.png",
     "Diamond.png",
@@ -181,7 +207,6 @@
     "PanoramaActual.png",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 3.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
     "Pyramid_of_pain.png",
     "Topologias.png",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Cambios en el mundo como respuesta.md",
