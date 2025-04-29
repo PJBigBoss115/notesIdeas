@@ -4,52 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6ba254e4e0c8dc61",
+        "id": "e0c645fb055fa047",
         "type": "tabs",
         "children": [
           {
-            "id": "e61c07f96c36a5f7",
+            "id": "d49bced32da73781",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Clase_2"
-            }
-          },
-          {
-            "id": "77734d4f851337c1",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
-                "viewState": {
-                  "x": -710.5125003083385,
-                  "y": 776.0427047569119,
-                  "zoom": -1.6
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Clase_3_Notas"
+              "title": "Nueva pestaña"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,10 +164,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "77734d4f851337c1",
+  "active": "d49bced32da73781",
   "lastOpenFiles": [
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
     "Cyber_kill_chain.png",
     "Diamond.png",
     "Español CypherCom End-to-end Encryption_2025-04-28.pdf",
