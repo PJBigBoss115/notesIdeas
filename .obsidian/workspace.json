@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "644e0cdf5e23258f",
+        "id": "6ba254e4e0c8dc61",
         "type": "tabs",
         "children": [
           {
-            "id": "90744aed278c7074",
+            "id": "e61c07f96c36a5f7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
                 "viewState": {
-                  "x": -559.606086452575,
-                  "y": 594.2351020125128,
-                  "zoom": -1.9745705478620206
+                  "x": -245.47684981979023,
+                  "y": 57.77478823264863,
+                  "zoom": -0.9493954198188955
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Clase_1"
+              "title": "Clase_3_Notas"
             }
           }
         ]
@@ -171,16 +171,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "90744aed278c7074",
+  "active": "e61c07f96c36a5f7",
   "lastOpenFiles": [
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
     "Cyber_kill_chain.png",
     "Diamond.png",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Sin título.md",
-    "Pyramid_of_pain.png",
+    "Español CypherCom End-to-end Encryption_2025-04-28.pdf",
+    "NMAP CHEAT SHEET.pdf",
     "PanoramaActual.png",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 3.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
+    "Pyramid_of_pain.png",
     "Topologias.png",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Cambios en el mundo como respuesta.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Evolución de los riesgos cibernéticos.md",
