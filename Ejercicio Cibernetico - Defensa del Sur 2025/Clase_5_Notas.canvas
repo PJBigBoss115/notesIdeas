@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"889acfa1dd3d0613","type":"file","file":"Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md","x":-580,"y":-480,"width":1020,"height":2080,"color":"2"},
+		{"id":"d2700fcbe0e5894d","type":"file","file":"virusTotal.png","x":680,"y":-480,"width":260,"height":136,"color":"6"},
+		{"id":"1ea5c2b52db51f1a","type":"link","url":"https://www.virustotal.com/gui/home/upload","x":680,"y":-180,"width":960,"height":900,"color":"6"},
+		{"id":"a10c36eb82b3d54c","type":"file","file":"AnyRun.png","x":680,"y":840,"width":260,"height":126,"color":"6"},
+		{"id":"3c35f6d1f4dc8a0d","type":"link","url":"https://any.run/","x":680,"y":1110,"width":960,"height":980,"color":"6"},
+		{"id":"42beb9b4f3fc9504","type":"link","url":"https://blogger.googleusercontent.com/img/a/AVvXsEhcI6xYg1aYXb99pK_UeZ5aQlF9UxSLzua4J6Tcy5nMZ_Et9ruNnNpQGdjEb-KFdVVi7NZrcn1Pwjrhl-AB0U302vzyZD-hq3SKcss-DYzW-sRMqwQJq6aloCjkI5WnfclLvBpalOiOi1XKdlGMVYgl3S6P4EaviH13iEIJFwmiSZoQ-X3qhM5n2cHy=s320","x":-1080,"y":-480,"width":400,"height":400,"color":"2"},
+		{"id":"85e47eb0748a15a7","type":"file","file":"SecurityOnion.png","x":-1732,"y":605,"width":652,"height":231,"color":"2"},
+		{"id":"35d195df7f4293fa","type":"file","file":"GreenBone.png","x":-1360,"y":40,"width":400,"height":340,"color":"2"}
+	],
+	"edges":[
+		{"id":"7106e72abe486f13","fromNode":"d2700fcbe0e5894d","fromSide":"bottom","toNode":"1ea5c2b52db51f1a","toSide":"top"},
+		{"id":"2183fb25a28c3532","fromNode":"889acfa1dd3d0613","fromSide":"right","toNode":"d2700fcbe0e5894d","toSide":"left"},
+		{"id":"351a248f0060aa60","fromNode":"a10c36eb82b3d54c","fromSide":"bottom","toNode":"3c35f6d1f4dc8a0d","toSide":"top"},
+		{"id":"50a106fbed16fda2","fromNode":"889acfa1dd3d0613","fromSide":"right","toNode":"a10c36eb82b3d54c","toSide":"left"},
+		{"id":"0f8dc53a985fc104","fromNode":"42beb9b4f3fc9504","fromSide":"bottom","toNode":"889acfa1dd3d0613","toSide":"left"},
+		{"id":"260b5470bb08b589","fromNode":"35d195df7f4293fa","fromSide":"bottom","toNode":"889acfa1dd3d0613","toSide":"left"},
+		{"id":"66759f370b1d3e40","fromNode":"85e47eb0748a15a7","fromSide":"top","toNode":"889acfa1dd3d0613","toSide":"left"}
+	]
+}

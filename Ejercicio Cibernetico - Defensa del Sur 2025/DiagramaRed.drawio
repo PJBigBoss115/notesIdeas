@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.15">
+  <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
+    <mxGraphModel dx="1026" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Business 192.168.16.128/25&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=light-dark(#000000,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);" edge="1" parent="1" source="WWkvywlIuw1iYFhXLQDc-6" target="WWkvywlIuw1iYFhXLQDc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FFFFFF);fontColor=light-dark(#000000,#FFFFFF);" edge="1" parent="1" source="WWkvywlIuw1iYFhXLQDc-6" target="WWkvywlIuw1iYFhXLQDc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FFFFFF);fontColor=light-dark(#000000,#FFFFFF);" edge="1" parent="1" source="WWkvywlIuw1iYFhXLQDc-6" target="WWkvywlIuw1iYFhXLQDc-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="150" />
+              <mxPoint x="250" y="280" />
+              <mxPoint x="455" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-7" value="Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="115" y="180" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-8" value="192.168.16.129" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-9" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="415" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-10" value="Host 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="425" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.713;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=light-dark(#000000,#FFFFFF);strokeColor=light-dark(#000000,#FFFFFF);" edge="1" parent="1" source="WWkvywlIuw1iYFhXLQDc-6" target="WWkvywlIuw1iYFhXLQDc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-13" value="Dispositivo tipo WAP {camara}&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;AXIS 210A o 211 (cámaras)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-14" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="255" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-15" value="192.168.16.130" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-17" value="Host 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="265" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-18" value="Adtran 424RG FTTH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="85" y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-20" value="" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_128x128.png;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="640" y="285" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-21" value="ASUS RT-N56U (router inalámbrico)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-25" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="55" y="340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-26" value="192.168.16.131" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-27" value="Host 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="65" y="428" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-29" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-31" value="192.168.16.252" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="400" y="285" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-32" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="415" y="315" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WWkvywlIuw1iYFhXLQDc-33" value="Host 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=light-dark(#000000,#FFFFFF);" vertex="1" parent="1">
+          <mxGeometry x="425" y="405" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

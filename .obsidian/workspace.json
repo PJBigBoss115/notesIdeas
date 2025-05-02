@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c645fb055fa047",
+        "id": "b197b805839ae5ce",
         "type": "tabs",
         "children": [
           {
-            "id": "d49bced32da73781",
+            "id": "f6e00aee2d7a1141",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Notas de clase 5"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.50260543823242
+    "width": 263.5
   },
   "right": {
     "id": "fd5b9183224e3461",
@@ -164,25 +168,38 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "d49bced32da73781",
+  "active": "f6e00aee2d7a1141",
   "lastOpenFiles": [
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
-    "Cyber_kill_chain.png",
-    "Diamond.png",
-    "Español CypherCom End-to-end Encryption_2025-04-28.pdf",
-    "NMAP CHEAT SHEET.pdf",
-    "PanoramaActual.png",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_4_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_5_Notas.canvas",
+    "2025-05-01.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 3.md",
+    "SecurityOnion.png",
+    "SecurityOnionBlack.png",
+    "GreenBone.png",
+    "AnyRun.png",
+    "virusTotal.png",
+    "PanoramaActual.png",
+    "ordenador.png",
+    "NMAP CHEAT SHEET.pdf",
+    "MapaRedBusnees.png",
+    "Español CypherCom End-to-end Encryption_2025-04-28.pdf",
+    "Diamond.png",
+    "Cyber_kill_chain.png",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 4.md",
+    "Sin título.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
-    "Pyramid_of_pain.png",
-    "Topologias.png",
+    "xml version 1 0 encoding.txt",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/DiagramaRed.drawio.crswap",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/DiagramaRed.drawio",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Cambios en el mundo como respuesta.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Evolución de los riesgos cibernéticos.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Introducción.md",
     "Bienvenido.md",
     "Sin título.canvas",
-    "Sin título.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025"
   ]
 }
