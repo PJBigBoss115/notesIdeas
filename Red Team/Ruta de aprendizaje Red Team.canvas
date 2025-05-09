@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4458aca0830038e2","type":"file","file":"Red Team/team?.md","x":-600,"y":-400,"width":1120,"height":1360,"color":"1"},
+		{"id":"8139ee6c837182b7","x":680,"y":-400,"width":1120,"height":3040,"color":"1","type":"file","file":"Red Team/🛤️ Ruta completa para formarte como Red Teamer.md"}
+	],
+	"edges":[
+		{"id":"8e9abfae5c5d47e2","fromNode":"4458aca0830038e2","fromSide":"right","toNode":"8139ee6c837182b7","toSide":"left","color":"1"}
+	]
+}

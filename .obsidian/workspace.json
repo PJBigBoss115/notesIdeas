@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b197b805839ae5ce",
+        "id": "bf2706705fe112d7",
         "type": "tabs",
         "children": [
           {
-            "id": "f6e00aee2d7a1141",
+            "id": "fe931b4198650d87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md",
-                "mode": "source",
-                "source": false
+                "file": "Red Team/Ruta de aprendizaje Red Team.canvas",
+                "viewState": {
+                  "x": 896.6185646517783,
+                  "y": 577.3858805626871,
+                  "zoom": -1.279082753321164
+                }
               },
-              "icon": "lucide-file",
-              "title": "Notas de clase 5"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ruta de aprendizaje Red Team"
             }
           }
         ]
@@ -78,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 443.5004348754883
   },
   "right": {
     "id": "fd5b9183224e3461",
@@ -168,11 +171,28 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f6e00aee2d7a1141",
+  "active": "fe931b4198650d87",
   "lastOpenFiles": [
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
+    "Red Team/Ruta de aprendizaje Red Team.canvas",
+    "Red Team/🛤️ Ruta completa para formarte como Red Teamer.md",
+    "Red Team/Como ser parte del red team.md",
+    "Red Team/team?.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_6_Notas.canvas",
+    "Red Team",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 7.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/🛡️ Informe del Blue Team – Día 5.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/🛡️ Informe del Blue Team – Día 4.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/🛡️ Informe del Blue Team – Día 1.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/🛡️ Informe del Blue Team – Día 2.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/🛡️ Informe del Blue Team – Día 3.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Reporte - Metodologia del Ataque (Red Team).md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 2.md",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 6.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_4_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_3_Notas.canvas",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_5_Notas.canvas",
+    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md",
     "2025-05-01.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 3.md",
     "SecurityOnion.png",
@@ -187,11 +207,8 @@
     "Español CypherCom End-to-end Encryption_2025-04-28.pdf",
     "Diamond.png",
     "Cyber_kill_chain.png",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 5.md",
     "Ejercicio Cibernetico - Defensa del Sur 2025/Notas de clase 4.md",
     "Sin título.md",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_2.md",
-    "Ejercicio Cibernetico - Defensa del Sur 2025/Clase_1.canvas",
     "xml version 1 0 encoding.txt",
     "Ejercicio Cibernetico - Defensa del Sur 2025/DiagramaRed.drawio.crswap",
     "Ejercicio Cibernetico - Defensa del Sur 2025/DiagramaRed.drawio",
